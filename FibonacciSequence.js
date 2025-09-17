@@ -15,19 +15,22 @@ Note that the starting numbers are part of the sequence.
 */
 
 function fibonacciSequence(startSequence, length) {
+  if (length == 0) {
+    return [];
+  }
   if (length == 1) {
-    return [startSequence[0]]
+    return [startSequence[0]];
   }
   if (length == 2) {
-    return startSequence
+    return startSequence;
   }
 
-  let arr = [...startSequence]
-  for (let i = 0; i < (length - 2); i++) {
-    let x = arr[i]+arr[i+1]
-    arr.push(x)
+  let arr = [...startSequence];
+  for (let i = 0; i < length - 2; i++) {
+    let x = arr[i] + arr[i + 1];
+    arr.push(x);
   }
-  return arr
+  return arr;
 }
 
-console.log(fibonacciSequence([0, 1], 20))
+console.log(fibonacciSequence([0, 1], 20));
