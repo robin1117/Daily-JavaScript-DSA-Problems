@@ -15,3 +15,6 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2025-09-20 | Anagram Checker      | [Solution](./AnagramChecker.js)    |
 | 2025-09-20 | Targeted Sum         | [Solution](./TargetedSum.js)       |
 | 2025-09-21 | Factorializer        | [Solution](./Factorializer.js)     |
+| 2025-09-21 | Sum of Squares       | [Solution](./SumofSquares.js)      |
+| 2025-09-21 | 3 Strikes            | [Solution](./3Strikes.js)          |
+| 2025-09-21 | Mile Pace            | [Solution](./MilePace.js)          |
