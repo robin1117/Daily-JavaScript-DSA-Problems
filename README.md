@@ -12,3 +12,6 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2025-09-15 | Base Check           | [Solution](./baseCheck.js)         |
 | 2025-09-17 | Fibonacci Sequence   | [Solution](./FibonacciSequence.js) |
 | 2025-09-20 | JbelmudText          | [Solution](./JbelmudText.js)       |
+| 2025-09-20 | Anagram Checker      | [Solution](./AnagramChecker.js)    |
+| 2025-09-20 | Targeted Sum         | [Solution](./TargetedSum.js)       |
+| 2025-09-21 | Factorializer        | [Solution](./Factorializer.js)     |
