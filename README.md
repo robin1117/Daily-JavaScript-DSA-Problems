@@ -18,3 +18,6 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2025-09-21 | Sum of Squares       | [Solution](./SumofSquares.js)      |
 | 2025-09-21 | 3 Strikes            | [Solution](./3Strikes.js)          |
 | 2025-09-21 | Mile Pace            | [Solution](./MilePace.js)          |
+| 2025-09-22 | Unnatural Prime      | [Solution](./UnnaturalPrime.js)    |
+| 2025-09-22 | Message Decoder      | [Solution](./MessageDecoder.js)    |
+| 2025-09-22 | Character Battle     | [Solution](./CharacterBattle.js)   |
