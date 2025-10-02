@@ -22,5 +22,6 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2025-09-22 | Message Decoder\*       | [Solution](./MessageDecoder.js)      |
 | 2025-09-24 | Character Battle\*      | [Solution](./CharacterBattle.js)     |
 | 2025-09-25 | camelCase               | [Solution](./camelCase.js)           |
-| 2025-09-27 | Unorder of Operations\* | [Solution](./UnorderofOperations.js) |
-| 2025-09-28 | Second Best             | [Solution](./SecondBest.js) |
+| 2025-09-27 | Unorder of Operations\* | [Solution](./UnorderOfOperations.js) |
+| 2025-09-28 | Second Best             | [Solution](./SecondBest.js)          |
+| 2025-10-02 | Binary to Decimal       | [Solution](./BinarytoDecimal.js)     |
