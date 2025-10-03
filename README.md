@@ -25,3 +25,4 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2025-09-27 | Unorder of Operations\* | [Solution](./UnorderOfOperations.js) |
 | 2025-09-28 | Second Best             | [Solution](./SecondBest.js)          |
 | 2025-10-02 | Binary to Decimal       | [Solution](./BinarytoDecimal.js)     |
+| 2025-10-03 | Decimal to Binary       | [Solution](./DecimaltoBinary.js)     |
