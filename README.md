@@ -26,4 +26,5 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2025-09-28 | Second Best             | [Solution](./SecondBest.js)          |
 | 2025-10-02 | Binary to Decimal       | [Solution](./BinarytoDecimal.js)     |
 | 2025-10-03 | Decimal to Binary       | [Solution](./DecimaltoBinary.js)     |
-| 2025-10-04 | P@ssw0rd Str3ngth!      | [Solution](./P@ssw0rdStr3ngth!.js)     |
+| 2025-10-04 | P@ssw0rd Str3ngth!      | [Solution](./P@ssw0rdStr3ngth!.js)   |
+| 2025-10-07 | Exoplanet Search        | [Solution](./ExoplanetSearch.js)     |
