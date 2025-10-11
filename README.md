@@ -31,3 +31,4 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2025-10-09 | Longest Word            | [Solution](./LongestWord.js)         |
 | 2025-10-09 | Tribonacci Sequence     | [Solution](./TribonacciSequence.js)  |
 | 2025-10-10 | RGB to Hex              | [Solution](./RGBtoHex.js)            |
+| 2025-10-11 | Array Duplicates        | [Solution](./ArrayDuplicates.js)     |
