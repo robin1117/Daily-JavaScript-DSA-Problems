@@ -36,3 +36,4 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2025-10-16 | Fill The Tank           | [Solution](./FillTheTank.js)         |
 | 2025-10-18 | Pangram                 | [Solution](./Pangram.js)             |
 | 2025-10-21 | Candlelight\*           | [Solution](./Candlelight.js)         |
+| 2025-10-21 | Matrix Rotate\*         | [Solution](./MatrixRotate.js)       |
