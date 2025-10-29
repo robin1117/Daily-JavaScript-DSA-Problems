@@ -38,3 +38,4 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2025-10-21 | Candlelight\*           | [Solution](./Candlelight.js)         |
 | 2025-10-21 | Matrix Rotate\*         | [Solution](./MatrixRotate.js)        |
 | 2025-10-26 | Video Storage           | [Solution](./VideoStorage.js)        |
+| 2025-10-29 | Array Diff              | [Solution](./ArrayDiff.js)           |
