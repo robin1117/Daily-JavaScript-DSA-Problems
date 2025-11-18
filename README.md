@@ -44,3 +44,4 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2025-11-11 | Vowels and Consonants   | [Solution](./VowelsandConsonants.js) |
 | 2025-11-16 | Reverse Parenthesis\*   | [Solution](./ReverseParenthesis.js)  |
 | 2025-11-18 | Screen Time             | [Solution](./ScreenTime.js)          |
+| 2025-11-18 | File Storage            | [Solution](./FileStorage.js)          |
