@@ -42,4 +42,5 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2025-10-30 | IPv4 Validator\*        | [Solution](./IPv4Validator.js)       |
 | 2025-11-03 | Sentence Capitalizer    | [Solution](./SentenceCapitalizer.js) |
 | 2025-11-11 | Vowels and Consonants   | [Solution](./VowelsandConsonants.js) |
-| 2025-11-11 | Reverse Parenthesis\*   | [Solution](./ReverseParenthesis.js) |
+| 2025-11-16 | Reverse Parenthesis\*   | [Solution](./ReverseParenthesis.js)  |
+| 2025-11-18 | Screen Time             | [Solution](./ScreenTime.js)          |
